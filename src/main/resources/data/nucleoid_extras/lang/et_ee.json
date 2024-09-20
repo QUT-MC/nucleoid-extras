@@ -12,7 +12,7 @@
 
   "nucleoid.sidebar.join.1": "Liitu käsklusega %s...",
   "nucleoid.sidebar.join.2": "...või kasutades kompassi!",
-  "nucleoid.discord": "nucleoid.xyz/discord",
+  "nucleoid.discord": "qutmc.club/discord",
   "nucleoid.stop.scheduled": "Ajastatud on serveri taaskäivitus! Server taaskäivitub %s minuti pärast või siis, kui kõik mängud lõppevad.",
   "nucleoid.stop.scheduled.already": "Serveri taaskäivitus on juba ajastatud.",
   "nucleoid.stop.game.open": "Selle mänguga ei saa liituda: ajastatud on serveri peatamine!",

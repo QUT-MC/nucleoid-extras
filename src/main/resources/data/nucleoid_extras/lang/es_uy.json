@@ -12,7 +12,7 @@
 
   "nucleoid.sidebar.join.1": "¡Únete con %s...",
   "nucleoid.sidebar.join.2": "...o usando la brújula!",
-  "nucleoid.discord": "nucleoid.xyz/discord",
+  "nucleoid.discord": "qutmc.club/discord",
   "nucleoid.stop.scheduled": "¡Se ha programado un reinicio de servidor! El servidor se reiniciará en %s minutos, o cuando todas las partidas terminen.",
   "nucleoid.stop.scheduled.already": "Un reinicio de servidor ya se ha programado.",
   "nucleoid.stop.game.open": "No puede unirse a la partida: ¡Hay un reinicio de servidor programado!",

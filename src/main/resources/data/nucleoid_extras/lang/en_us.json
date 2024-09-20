@@ -14,7 +14,7 @@
 
   "nucleoid.sidebar.join.1": "Join with %s...",
   "nucleoid.sidebar.join.2": "...or by using the compass!",
-  "nucleoid.discord": "nucleoid.xyz/discord",
+  "nucleoid.discord": "qutmc.club/discord",
   "nucleoid.stop.scheduled": "Server restart has been scheduled! The server will restart in %s minutes, or when all games exit.",
   "nucleoid.stop.scheduled.already": "Server restart has already been scheduled.",
   "nucleoid.stop.game.open": "Cannot join this game: a server stop has been scheduled!",
@@ -399,13 +399,13 @@
 
   "text.nucleoid_extras.ui.action.more": "Right-click for more...",
 
-  "text.nucleoid_extras.wrapped.join": "Nucleoid Wrapped 2023 is here! Check out yours at https://stats.nucleoid.xyz/players/%s/wrapped",
+  "text.nucleoid_extras.wrapped.join": "Nucleoid Wrapped 2023 is here! Check out yours at https://stats.qutmc.club/players/%s/wrapped",
 
   "text.nucleoid_extras.rules.continued_title": "%s (cont.)",
-  "text.nucleoid_extras.rules.welcome": "Welcome to %s!\n\nWe're building open-source minigames.",
+  "text.nucleoid_extras.rules.welcome": "Welcome to %s!\n\nAn open source minigame server!",
   "text.nucleoid_extras.rules.links": "You can find us at %s, or join our Discord at %s.",
   "text.nucleoid_extras.rules.guidelines": "We have a couple of guidelines to keep in mind while playing on the following pages.",
-  "text.nucleoid_extras.rules.contact": "If you do encounter any behavior that you would like to report, feel free to join our Discord and message @NucleMail, or send us an email at contact@nucleoid.xyz.",
+  "text.nucleoid_extras.rules.contact": "If you do encounter any behavior that you would like to report, feel free to join our Discord and message @NucleMail, or send us an email at contact@qutmc.club.",
   "text.nucleoid_extras.rules.friendly_environment.title": "1. A friendly environment",
   "text.nucleoid_extras.rules.friendly_environment.1": "We're all here to have fun! Let's create an inclusive environment where we all feel comfortable to play and share the joy of creating together.",
   "text.nucleoid_extras.rules.friendly_environment.2": "Treat all players, regardless of their background, with respect and kindness. Any kind of discrimination or harassment is prohibited.",

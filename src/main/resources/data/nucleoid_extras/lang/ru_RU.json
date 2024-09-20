@@ -36,7 +36,7 @@
     "nucleoid.sidebar.join.2": "...или с помощью компаса!",
     "nucleoid.sidebar.game.player.1": "%s игрок",
     "nucleoid.sidebar.game.player.more": "%s игроков",
-    "nucleoid.discord": "nucleoid.xyz/discord",
+    "nucleoid.discord": "qutmc.club/discord",
     "nucleoid.stop.scheduled": "Перезапуск сервера был запланирован! Сервер будет перезапущен через %s минут или когда все игры закончатся.",
     "nucleoid.stop.scheduled.already": "Перезапуск сервера уже был запланирован.",
     "nucleoid.stop.game.open": "Не удалось присоединиться к игре: остановка сервера была запланирована!",
