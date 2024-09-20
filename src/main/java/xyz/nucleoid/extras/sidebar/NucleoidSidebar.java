@@ -26,10 +26,10 @@ public final class NucleoidSidebar {
 
     private static final Style MAIN_TITLE_STYLE = Style.EMPTY.withColor(0x003C72).withBold(true);
     private static final Style FLASH_TITLE_STYLE = Style.EMPTY.withColor(0xffffff);
-    private static final Style ALT_TITLE_STYLE = Style.EMPTY.withColor(0xffffff).withBold(true);
+    private static final Style ALT_TITLE_STYLE = Style.EMPTY.withColor(0x003C72).withBold(true);
 
-    private static final Style TOP_SIDEBAR_STYLE = Style.EMPTY.withColor(0x003C72);
-    private static final Style GAME_TITLE_STYLE = Style.EMPTY.withColor(0x003C72);
+    private static final Style TOP_SIDEBAR_STYLE = Style.EMPTY.withColor(0xfff173);
+    private static final Style GAME_TITLE_STYLE = Style.EMPTY.withColor(0xffac12);
     private static final Style GAME_COUNT_STYLE = Style.EMPTY.withColor(0xcccccc);
     private static final Style LINK_STYLE = Style.EMPTY.withColor(0x94eeff);
 
