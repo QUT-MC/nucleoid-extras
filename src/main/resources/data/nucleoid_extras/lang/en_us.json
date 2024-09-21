@@ -64,6 +64,7 @@
   "block.nucleoid_extras.red_concrete_powder": "Floating Red Concrete Powder (Lobby only!)",
   "block.nucleoid_extras.white_concrete_powder": "Floating White Concrete Powder (Lobby only!)",
   "block.nucleoid_extras.yellow_concrete_powder": "Floating Yellow Concrete Powder (Lobby only!)",
+
   "block.nucleoid_extras.tiny_potato": "Tiny Potato",
   "block.nucleoid_extras.botanical_potato": "Botanical Tiny Potato",
   "block.nucleoid_extras.irritater": "Irritater",
@@ -352,6 +353,7 @@
   "block.nucleoid_extras.corruptater.5": "undefined",
   "block.nucleoid_extras.corruptater.6": "ArrayIndexOutOfBoundsException",
   "block.nucleoid_extras.corruptater.7": ";)",
+  "block.nucleoid_extras.qutmc_logo": "QUT MC Club Logo",
   "block.nucleoid_extras.nucleoid_logo": "Nucleoid Logo",
 
   "block.nucleoid_extras.safe_tnt": "Safe TNT (Lobby only!)",

@@ -20,14 +20,8 @@ public class NEBlockTagProvider extends FabricTagProvider.BlockTagProvider {
         this.getOrCreateTagBuilder(BlockTags.DOORS)
                 .add(NEBlocks.TRANSIENT_IRON_DOOR);
 
-        this.getOrCreateTagBuilder(NEBlockTags.LUCKY_TATER_DROPS)
-                .add(NEBlocks.BRONZE_CAPSULE_TATER)
-                .add(NEBlocks.SILVER_CAPSULE_TATER)
-                .add(NEBlocks.GOLD_CAPSULE_TATER);
-
         this.getOrCreateTagBuilder(NEBlockTags.NON_VIBRATING_TATERS)
-                .addOptionalTag(BlockTags.DAMPENS_VIBRATIONS)
-                .add(NEBlocks.WARDEN_TATER);
+                .addOptionalTag(BlockTags.DAMPENS_VIBRATIONS);
 
         this.getOrCreateTagBuilder(BlockTags.WOODEN_DOORS)
                 .add(NEBlocks.TRANSIENT_OAK_DOOR)
@@ -41,8 +35,5 @@ public class NEBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(NEBlocks.TRANSIENT_BAMBOO_DOOR)
                 .add(NEBlocks.TRANSIENT_CRIMSON_DOOR)
                 .add(NEBlocks.TRANSIENT_WARPED_DOOR);
-
-        this.getOrCreateTagBuilder(NEBlockTags.VIRAL_TATERS)
-                .add(NEBlocks.VIRAL_TATER);
     }
 }
