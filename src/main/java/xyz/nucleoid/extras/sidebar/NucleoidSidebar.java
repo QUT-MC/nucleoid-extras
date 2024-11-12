@@ -33,10 +33,10 @@ public final class NucleoidSidebar {
     private static final Style GAME_COUNT_STYLE = Style.EMPTY.withColor(0xcccccc);
     private static final Style LINK_STYLE = Style.EMPTY.withColor(0x94eeff);
 
-    private static final String NAME = "QUTMC";
+    private static final String NAME = "server.zekez";
     private static final Text DEV_TITLE = Text.literal(" (DEV)").setStyle(Style.EMPTY.withColor(0xbf0059));
 
-    private static final Text NAME_APPEND = Text.literal(".club").setStyle(Style.EMPTY.withColor(Formatting.WHITE).withBold(false));
+    private static final Text NAME_APPEND = Text.literal(".dev").setStyle(Style.EMPTY.withColor(Formatting.WHITE).withBold(false));
 
     private static final Text TITLE_MAIN = Text.literal(NAME).setStyle(MAIN_TITLE_STYLE).append(NAME_APPEND);
     private static final Text TITLE_ALT = Text.literal(NAME).setStyle(ALT_TITLE_STYLE).append(NAME_APPEND);
